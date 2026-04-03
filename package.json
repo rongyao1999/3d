@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://你的用户名.github.io/你的仓库名",
+  "homepage": "https://rongyao1999.github.io/3d",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
